@@ -7,8 +7,6 @@
 # 训练输出
 history.json
 char_vocab.json
-*.png
-*.jpg
 
 # Python
 __pycache__/
