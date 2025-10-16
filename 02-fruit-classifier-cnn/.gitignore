@@ -1,0 +1,40 @@
+# 模型文件
+*.pth
+*.joblib
+*.pkl
+*.h5
+
+# 训练输出
+history.json
+char_vocab.json
+*.png
+*.jpg
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 数据文件（太大的话）
+# data.csv
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# 系统文件
+.DS_Store
+Thumbs.db
